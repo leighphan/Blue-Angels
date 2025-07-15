@@ -1,0 +1,8 @@
+{
+    "@context": "https://intersect-training.org/bootcamp25/",
+    "@type": "SoftwareSourceCode",
+    "name": "CodemetaR",
+    "description": "This is a learning and practice repository for advancing skills in effective research software engineering.",
+    "license": "https://spdx.org/licenses/MIT.html",
+    "identifier": "http://dx.doi.org/10.5281/zenodo.XXXX"
+}
